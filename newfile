@@ -14,4 +14,15 @@
                 generatePermutation(str,start+1,end);    
                 //Backtracking and swapping the characters again.    
                 str = swapString(str,start,i);    
-            }    
+            }   
+### new changes of developer chinna
+			public static void printOne() {
+		System.out.println("Hello World");
+	}
+
+	public static void printTwo() {
+		printOne();
+		printOne();
+		}
+		}
+		
